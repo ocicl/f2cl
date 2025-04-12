@@ -4,6 +4,6 @@ Fortran to Common Lisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/f2cl/f2cl.git |
-| commit  | cc42b6e                                          |
+| commit  | 3e3a7d8                                          |
 | systems | f2cl f2cl-asdf                                   |
 |---------+--------------------------------------------------|
